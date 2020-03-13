@@ -1,5 +1,5 @@
 # Ricing-Linux
-### This repository needs updated
+### This repository needs to be updated
 ## Debian Bash Terminal ricing.
 How to make terminal look like this?
 ![test](lol.jpg)
